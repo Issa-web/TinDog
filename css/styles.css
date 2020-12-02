@@ -65,4 +65,8 @@ p {
 
 .fas {
     color: #ef8172;
+    padding-bottom: 5%;
+}
+.fas:hover {
+    color: #ff4c68
 }
